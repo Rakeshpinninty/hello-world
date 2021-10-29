@@ -9,10 +9,9 @@
 <title>User Registration Form</title>
 </head>
 <body>
-<h1>User Register Form</h1>
+<h1>User information</h1>
 <form action="guru_register" method="post">
-			<table style="with: 50%">
-				<tr>
+			<table style="with: 50%">				<tr>
 					<td>First Name</td>
 					<td><input type="text" name="first_name" /></td>
 				</tr>
